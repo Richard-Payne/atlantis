@@ -233,9 +233,11 @@ github.com/mitchellh/reflectwalk
 # github.com/mohae/deepcopy v0.0.0-20170603005431-491d3605edfb
 ## explicit
 github.com/mohae/deepcopy
-# github.com/nlopes/slack v0.4.0
+# github.com/nlopes/slack v0.6.0
 ## explicit
 github.com/nlopes/slack
+github.com/nlopes/slack/internal/errorsx
+github.com/nlopes/slack/internal/timex
 github.com/nlopes/slack/slackutilsx
 # github.com/onsi/ginkgo v1.9.0
 ## explicit
